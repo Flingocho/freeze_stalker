@@ -37,7 +37,6 @@ Below is an example of a screenshot taken by the bot:
 
 1.  **Clone the repository (or download the files) 📂:**
     ```bash
-    # If it were on GitHub:
     # git clone https://github.com/Flingocho/freeze_stalker.git
     # cd freeze_stalker
     ```
